@@ -102,10 +102,16 @@ header a{
 .logo img{
 	margin: auto;
 }
+.top_addr.ta-left{
+	display: block;
+	float: left;
+}
 .top_addr.ta_right {
 	background-image: none;
 	padding-left: 0;
 	text-align: right;
+	display: block;
+	float: right;
 }
 .ta_right span{
 	color: #fff;
