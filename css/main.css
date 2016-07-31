@@ -304,14 +304,12 @@ article h2.art_header::after{
 	padding: 0;
 }
 .mc_item_wrap{
-	margin-left: 30px;
+	margin-right: 20px;
+	margin-top: 10px;
 	width: 160px;
 	display: inline-block;
 	text-align: center;
 
-}
-.mc_item_wrap:first-child{
-	margin-left: 0;
 }
 .mc_item_wrap_af{
 	position: absolute;
